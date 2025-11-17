@@ -4,7 +4,7 @@
 #include <deque>
 #include <tuple>
 #include <algorithm>
-#include <cmath> // Include cmath for min/max if not provided by algorithm
+#include <cmath> // Include cmath for min/max if not provided by algorithm  
 
 using namespace std;
 
@@ -240,4 +240,5 @@ int main() {
         solve();
     }
     return 0;
+
 }
