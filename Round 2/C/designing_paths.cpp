@@ -6,7 +6,7 @@
 #include <algorithm>
 #include <cmath> // Include cmath for min/max if not provided by algorithm  
 
-using namespace std;
+using namespace std;  
 
 // Maximum size constraints
 const int MAX_COURTS = 500005;
@@ -242,3 +242,4 @@ int main() {
     return 0;
 
 }
+
